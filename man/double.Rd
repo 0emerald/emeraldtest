@@ -15,3 +15,6 @@ double the value of the input is returned
 \description{
 Title
 }
+\examples{
+double(3)
+}
